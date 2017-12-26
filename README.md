@@ -6,15 +6,15 @@ The goal here is to learn more about JavaScript, jQuery, the DOM, and asynchrono
 
 ![](https://raw.githubusercontent.com/lewagon/fullstack-images/master/frontend/wagon_race.gif)
 
-
-``clone this directory
-launch your race and play using in the cmd:
+## LAUNCH AND PLAY
+Clone this directory
+launch your race and play using terminal cmd:
+```
  rake webpack
-have fun!
+```
 
 
-## how to build it:
-## Specs
+## How to build it - Specs
 #### HTML
 
 You will start by building a simple two-player board in HTML. There are a few different ways of doing it, but here's one example:
