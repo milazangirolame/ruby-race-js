@@ -1,5 +1,5 @@
 task :eslint do
-  system "/eslint lib/*.js"
+  system "/.bin/eslint lib/*.js"
 end
 
 task :mocha do
@@ -7,7 +7,7 @@ task :mocha do
 end
 
 task :webpack do
-  system "/webpack-dev-server"
+  system "/.bin/webpack-dev-server"
 end
 
 task default: [:eslint]
